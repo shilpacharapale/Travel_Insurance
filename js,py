@@ -1,0 +1,8 @@
+import json 
+import config
+
+with open(config.JSON_MODEL_PATH,"r") as f:
+    json_data = json.load(f)
+
+print(len(json_data["columns"]))
+print(json_data["columns"])
