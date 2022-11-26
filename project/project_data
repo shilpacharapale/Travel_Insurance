@@ -1,0 +1,28 @@
+{
+    "Graduate_Not": {
+        "Yes": 1,
+        "No": 0
+    },
+    "Frequent_Flyer": {
+        "Yes": 1,
+        "No": 0
+    },
+    "EverTravelled_Abroad": {
+        "Yes": 1,
+        "No": 0
+    },
+    "Government_Sector": {
+        "Yes": 1,
+        "No": 0
+    },
+    "columns": [
+        "Age",
+        "GraduateOrNot",
+        "AnnualIncome",
+        "FamilyMembers",
+        "ChronicDiseases",
+        "FrequentFlyer",
+        "EverTravelledAbroad",
+        "Government Sector"
+    ]
+}
